@@ -14,7 +14,6 @@
                                 <div class="w-100">
                                     <div class="flex justify-between">
                                         <h3 class="mb-4">Sign In</h3>
-                                        <h3 class="mb-4 text-primary">FoodMart</h3>
 
                                     </div>
                                 </div>
@@ -51,10 +50,10 @@
                                     <button type="submit" class="btn btn-primary w-100 mt-4 mb-0">Sign
                                         in</button>
                                 </div>
-                                {{-- <p class="mb-4 text-sm mx-auto">
+                                <p class="mb-4 text-sm mx-auto">
                                     Don't have an account?
                                     <a href="register" class="text-success text-gradient font-weight-bold">Sign up</a>
-                                </p> --}}
+                                </p>
                             </form>
 
                         </div>
